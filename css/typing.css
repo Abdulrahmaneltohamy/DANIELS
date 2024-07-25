@@ -1,0 +1,255 @@
+/* & typing animation */
+
+.home-header .caption .header-typing::after {
+    content: "";
+    animation-name: typed;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes typed {
+    0% {
+        content: "Larry Daniels|";
+    }
+
+    15% {
+        content: "Larry Daniels|";
+    }
+
+    16% {
+        content: "Larry Danie|";
+    }
+
+    17% {
+        content: "Larry Dani|";
+    }
+
+    18% {
+        content: "Larry Dan|";
+    }
+
+    19% {
+        content: "Larry Da|";
+    }
+
+    20% {
+        content: "Larry D|";
+    }
+
+    21% {
+        content: "Larry |";
+    }
+
+    22% {
+        content: "Larry|";
+    }
+
+    23% {
+        content: "Larr|";
+    }
+
+    24% {
+        content: "Lar|";
+    }
+
+    25% {
+        content: "La|";
+    }
+
+    26% {
+        content: "L|";
+    }
+
+    27% {
+        content: "|";
+    }
+
+    28% {
+        content: "D|";
+    }
+
+    29% {
+        content: "De|";
+    }
+
+    30% {
+        content: "Dev|";
+    }
+
+    31% {
+        content: "Deve|";
+    }
+
+    32% {
+        content: "Devel|";
+    }
+
+    33% {
+        content: "Develo|";
+    }
+
+    34% {
+        content: "Develop|";
+    }
+
+    35% {
+        content: "Develope|";
+    }
+
+    36% {
+        content: "Developer|";
+    }
+
+    50% {
+        content: "Developer|";
+    }
+
+    51% {
+        content: "Develop|";
+    }
+
+    52% {
+        content: "Develo|";
+    }
+
+    53% {
+        content: "Devel|";
+    }
+
+    54% {
+        content: "Deve|";
+    }
+
+    55% {
+        content: "Dev|";
+    }
+
+    56% {
+        content: "De|";
+    }
+
+    57% {
+        content: "D|";
+    }
+
+    58% {
+        content: "|";
+    }
+
+    59% {
+        content: "D|";
+    }
+
+    60% {
+        content: "De|";
+    }
+
+    61% {
+        content: "Des|";
+    }
+
+    62% {
+        content: "Desi|";
+    }
+
+    63% {
+        content: "Desig|";
+    }
+
+    64% {
+        content: "Design|";
+    }
+
+    65% {
+        content: "Designe|";
+    }
+
+    66% {
+        content: "Designer|";
+    }
+
+    80% {
+        content: "Designer|";
+    }
+
+    81% {
+        content: "Design|";
+    }
+
+    82% {
+        content: "Desig|";
+    }
+
+    83% {
+        content: "Desi|";
+    }
+
+    84% {
+        content: "Des|";
+    }
+
+    85% {
+        content: "De|";
+    }
+
+    86% {
+        content: "D|";
+    }
+
+    87% {
+        content: "|";
+    }
+
+    88% {
+        content: "L|";
+    }
+
+    89% {
+        content: "La|";
+    }
+
+    90% {
+        content: "Lar|";
+    }
+
+    91% {
+        content: "Larr|";
+    }
+
+    92% {
+        content: "Larry|";
+    }
+
+    93% {
+        content: "Larry |";
+    }
+
+    94% {
+        content: "Larry D|";
+    }
+
+    95% {
+        content: "Larry Da|";
+    }
+
+    96% {
+        content: "Larry Dan|";
+    }
+
+    97% {
+        content: "Larry Dani|";
+    }
+
+    98% {
+        content: "Larry Danie|";
+    }
+
+    99% {
+        content: "Larry Daniel|";
+    }
+
+    100% {
+        content: "Larry Daniels|";
+    }
+}
